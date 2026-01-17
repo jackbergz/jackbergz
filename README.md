@@ -16,7 +16,7 @@
 
 ### 🖥️ Portfolio
 
-[Check out my portfolio](https://drive.google.com/drive/folders/1NH38b5dIL2JO4ce-oGPEAVaMTRBAcdIM?usp=drive_link)
+<p><a href="https://drive.google.com/drive/folders/1NH38b5dIL2JO4ce-oGPEAVaMTRBAcdIM?usp=drive_link" target="_blank" rel="noopener noreferrer">Check out my portfolio</a></p>
 
 ---
 
@@ -44,5 +44,9 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jackbergz&show_icons=true&locale=en" />
+  <!-- GitHub basic stats -->
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jackbergz&count_private=true&show_icons=true&theme=radical)
+  
+  <!-- GitHub streak stats -->
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jackbergz&theme=radical)
 </p>

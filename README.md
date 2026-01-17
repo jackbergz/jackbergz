@@ -41,12 +41,3 @@
   <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" height="40"/>
 </p>
 
----
-
-<p align="center">
-  <!-- GitHub basic stats -->
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jackbergz&count_private=true&show_icons=true&theme=radical)
-  
-  <!-- GitHub streak stats -->
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jackbergz&theme=radical)
-</p>

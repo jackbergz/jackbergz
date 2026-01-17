@@ -14,10 +14,9 @@
 
 ---
 
-<h3 align="center">🖥️ Portfolio</h3>
-<p align="center">
-  <a href="[https://yourportfolio.com" target="_blank](https://drive.google.com/drive/folders/1NH38b5dIL2JO4ce-oGPEAVaMTRBAcdIM?usp=drive_link)">Visit my portfolio</a>
-</p>
+### 🖥️ Portfolio
+
+[Check out my portfolio](https://drive.google.com/drive/folders/1NH38b5dIL2JO4ce-oGPEAVaMTRBAcdIM?usp=drive_link)
 
 ---
 
